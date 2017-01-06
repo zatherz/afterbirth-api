@@ -21,6 +21,7 @@ var searchData=
   ['firebossprojectiles',['FireBossProjectiles',['../class_entity_n_p_c.html#a23751cddf7f8611d59581d4c649aad67',1,'EntityNPC']]],
   ['firebrimstone',['FireBrimstone',['../class_entity_player.html#aa52ddf770ed82ca58b45ab02ada7c5c0',1,'EntityPlayer']]],
   ['firecooldown',['FireCooldown',['../class_entity_familiar.html#ac42675bd5f0e906e454cc3be190c4ecf',1,'EntityFamiliar']]],
+  ['firedelay',['FireDelay',['../class_entity_player.html#a994e4d64cb627e8c29da1f8b41d55116',1,'EntityPlayer']]],
   ['firedelayedbrimstone',['FireDelayedBrimstone',['../class_entity_player.html#af44b0e63624880641b838cc3507b42c7',1,'EntityPlayer']]],
   ['firedirectionlimit',['FireDirectionLimit',['../class_projectile_params.html#a1b0c28fed54fd39280de7e03d15c038f',1,'ProjectileParams']]],
   ['fireknife',['FireKnife',['../class_entity_player.html#a6e04e1aab958eecb2aac868310fd40b8',1,'EntityPlayer']]],
@@ -81,7 +82,7 @@ var searchData=
   ['friend_5fball',['FRIEND_BALL',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a0a7fdee23794a57e210fae785734bc01',1,'Enums.h']]],
   ['friend_5fzone',['FRIEND_ZONE',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea8b735768f8160f33873687f35d01f61b',1,'Enums.h']]],
   ['friendballenemy',['FriendBallEnemy',['../class_entity_player.html#a6ea86e7d662403d59987131d54000f11',1,'EntityPlayer']]],
-  ['fromangle',['FromAngle',['../class_vector.html#a3421510b3ccf4c3ffd48b5df9588e7fc',1,'Vector']]],
+  ['fromangle',['FromAngle',['../class_vector.html#a07c35c26e27b8562aeac4069d5f580b9',1,'Vector']]],
   ['fullcharge',['FullCharge',['../class_entity_player.html#abb6c05883c59eab3211fb9d74257ccd6',1,'EntityPlayer']]],
   ['functions',['Functions',['../group___functions.html',1,'']]]
 ];

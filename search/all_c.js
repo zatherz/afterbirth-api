@@ -10,6 +10,7 @@ var searchData=
   ['laser_5ftech2_5foffset',['LASER_TECH2_OFFSET',['../group___enumerations.html#ggae2f0dd5c4caa890ee08ce7adb82d008da329bb980384e381ab63be0d193fbe2ca',1,'Enums.h']]],
   ['laser_5ftech5_5foffset',['LASER_TECH5_OFFSET',['../group___enumerations.html#ggae2f0dd5c4caa890ee08ce7adb82d008da34ca6c062257fb61f7c3b4d0634669c5',1,'Enums.h']]],
   ['laser_5ftractor_5fbeam_5foffset',['LASER_TRACTOR_BEAM_OFFSET',['../group___enumerations.html#ggae2f0dd5c4caa890ee08ce7adb82d008da0007ea78156e5473f01497e62b526400',1,'Enums.h']]],
+  ['lasercolor',['LaserColor',['../class_entity_player.html#a78c1bc3497aa8c79e957a6d956bbb1bf',1,'EntityPlayer']]],
   ['laserlength',['LaserLength',['../class_entity_laser.html#ac2f7330ed19cf54287b17483543c9fef',1,'EntityLaser']]],
   ['laseroffset',['LaserOffset',['../group___enumerations.html#gae2f0dd5c4caa890ee08ce7adb82d008d',1,'Enums.h']]],
   ['lastangledegrees',['LastAngleDegrees',['../class_entity_laser.html#a7705e1a312707ad6cc935448cc6965e6',1,'EntityLaser']]],
@@ -21,7 +22,7 @@ var searchData=
   ['left1',['LEFT1',['../group___enumerations.html#gga445b41ae2021fde99dff29df01f9ce38abc9fa736500cb017ef97c4e13f306c16',1,'Enums.h']]],
   ['length',['Length',['../class_vector.html#a36fc58a941177377e066425071cf4bb3',1,'Vector']]],
   ['lengthsquared',['LengthSquared',['../class_vector.html#aa5fcce60363f37a753eb5996bada6bf6',1,'Vector']]],
-  ['lerp',['Lerp',['../class_vector.html#a99bc78f955bfc9276383db022dfab730',1,'Vector::Lerp()'],['../class_color.html#a8d482383815756ab0974b34a6b8add75',1,'Color::Lerp()']]],
+  ['lerp',['Lerp',['../class_vector.html#a7e36c093f15253db8f0d68d5a69b64eb',1,'Vector::Lerp()'],['../class_color.html#a06de22a935b1a31d1cc8776d5af5561c',1,'Color::Lerp()']]],
   ['level',['Level',['../class_level.html',1,'']]],
   ['levelcurse',['LevelCurse',['../group___enumerations.html#gaf8502e81b66781fad715e772644d8a04',1,'Enums.h']]],
   ['levelstage',['LevelStage',['../group___enumerations.html#ga94b82cf988747085e77be386560efc68',1,'Enums.h']]],
@@ -39,7 +40,7 @@ var searchData=
   ['little_5fsteven',['LITTLE_STEVEN',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea3f431d2f41ac8c2a9327eda9a08308de',1,'Enums.h']]],
   ['load',['Load',['../class_sprite.html#af19f1e97acc045158149b0ac5177cc5d',1,'Sprite']]],
   ['loadgraphics',['LoadGraphics',['../class_sprite.html#a2d48eda74e29b3068a9933059f49c3a8',1,'Sprite']]],
-  ['loadmoddata',['LoadModData',['../namespace_isaac.html#a438f91b2291133260bc3c165220776b3',1,'Isaac']]],
+  ['loadmoddata',['LoadModData',['../namespace_isaac.html#a526834c43e9f0dbaec961602e39245a7',1,'Isaac']]],
   ['lockedanimation',['LockedAnimation',['../class_grid_entity_door.html#a9ea54cd4de2d1886f1c941029012fb3c',1,'GridEntityDoor']]],
   ['locust_5fof_5fconquest',['LOCUST_OF_CONQUEST',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa88d3e96e6f9df71b4a19c8ec510466cd',1,'Enums.h']]],
   ['locust_5fof_5fdeath',['LOCUST_OF_DEATH',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa90b12f1156ae66fd705095ff2baf646a',1,'Enums.h']]],
@@ -47,5 +48,6 @@ var searchData=
   ['locust_5fof_5fpestilence',['LOCUST_OF_PESTILENCE',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa8ca33554bedd7ec19acedf5a0781ec37',1,'Enums.h']]],
   ['locust_5fof_5fwrath',['LOCUST_OF_WRATH',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa91c50eae2c1a779a5afbcd73c2d634eb',1,'Enums.h']]],
   ['locustsubtypes',['LocustSubtypes',['../group___enumerations.html#gad9b31a86785e32c18d5d5487a31a0e1f',1,'Enums.h']]],
-  ['lost_5ffly',['LOST_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea03f9dab677947ea8f01d70b0e2e9193a',1,'Enums.h']]]
+  ['lost_5ffly',['LOST_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea03f9dab677947ea8f01d70b0e2e9193a',1,'Enums.h']]],
+  ['luck',['Luck',['../class_entity_player.html#a3e8019f2af95ebe0725ce9a667c03d79',1,'EntityPlayer']]]
 ];

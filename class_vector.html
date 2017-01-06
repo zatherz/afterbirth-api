@@ -81,7 +81,6 @@ $(document).ready(function(){initNavTree('class_vector.html','');});
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="class_vector-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -101,8 +100,16 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1b3a83ea8859a34776e4b5ff4a26cc00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7734ac3f82d1af28f63cc4d7283fbbc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#ac7734ac3f82d1af28f63cc4d7283fbbc">Cross</a> (<a class="el" href="class_vector.html">Vector</a> second)</td></tr>
 <tr class="separator:ac7734ac3f82d1af28f63cc4d7283fbbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e36c093f15253db8f0d68d5a69b64eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a7e36c093f15253db8f0d68d5a69b64eb">Lerp</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second, float t)</td></tr>
+<tr class="separator:a7e36c093f15253db8f0d68d5a69b64eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b5516463b4a28f3c919100d86f37473"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a3b5516463b4a28f3c919100d86f37473">Distance</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second)</td></tr>
+<tr class="separator:a3b5516463b4a28f3c919100d86f37473"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2017d10464afbbfac794504651b6c6d0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a2017d10464afbbfac794504651b6c6d0">DistanceSquared</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second)</td></tr>
+<tr class="separator:a2017d10464afbbfac794504651b6c6d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2cbc7114e5cb0a2cb9dfe8b68aa10f9d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a2cbc7114e5cb0a2cb9dfe8b68aa10f9d">Rotated</a> (float AngleDegrees)</td></tr>
 <tr class="separator:a2cbc7114e5cb0a2cb9dfe8b68aa10f9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07c35c26e27b8562aeac4069d5f580b9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a07c35c26e27b8562aeac4069d5f580b9">FromAngle</a> (float AngleDegrees)</td></tr>
+<tr class="separator:a07c35c26e27b8562aeac4069d5f580b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a267cb475e2b29b83ac555c04d13cfc69"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a267cb475e2b29b83ac555c04d13cfc69">GetAngleDegrees</a> ()</td></tr>
 <tr class="separator:a267cb475e2b29b83ac555c04d13cfc69"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39534c85b931e216d21d7a4270385c46"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a39534c85b931e216d21d7a4270385c46">Resize</a> (float NewLength)</td></tr>
@@ -126,20 +133,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a54c5b1dbcf60271904e8a2c3f048905e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a54c5b1dbcf60271904e8a2c3f048905e">__div</a> (float Modifier)</td></tr>
 <tr class="separator:a54c5b1dbcf60271904e8a2c3f048905e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a99bc78f955bfc9276383db022dfab730"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a99bc78f955bfc9276383db022dfab730">Lerp</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second, float t)</td></tr>
-<tr class="separator:a99bc78f955bfc9276383db022dfab730"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96316e2fe17773c43d7d2b2bd7413d72"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a96316e2fe17773c43d7d2b2bd7413d72">Distance</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second)</td></tr>
-<tr class="separator:a96316e2fe17773c43d7d2b2bd7413d72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8869ebe6b7837dbbaa7d7918fe51e636"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a8869ebe6b7837dbbaa7d7918fe51e636">DistanceSquared</a> (<a class="el" href="class_vector.html">Vector</a> first, <a class="el" href="class_vector.html">Vector</a> second)</td></tr>
-<tr class="separator:a8869ebe6b7837dbbaa7d7918fe51e636"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3421510b3ccf4c3ffd48b5df9588e7fc"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a3421510b3ccf4c3ffd48b5df9588e7fc">FromAngle</a> (float AngleDegrees)</td></tr>
-<tr class="separator:a3421510b3ccf4c3ffd48b5df9588e7fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a032ed74a5bbffcc0778f74e1ae666feb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a032ed74a5bbffcc0778f74e1ae666feb">X</a></td></tr>
+<tr class="memdesc:a032ed74a5bbffcc0778f74e1ae666feb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Components of vector.  <a href="#a032ed74a5bbffcc0778f74e1ae666feb">More...</a><br /></td></tr>
 <tr class="separator:a032ed74a5bbffcc0778f74e1ae666feb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a615bb9c2ae14cfd8c7e4d26ee6147deb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vector.html#a615bb9c2ae14cfd8c7e4d26ee6147deb">Y</a></td></tr>
 <tr class="separator:a615bb9c2ae14cfd8c7e4d26ee6147deb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -189,6 +186,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Addition operators </p>
 
 </div>
 </div>
@@ -207,6 +205,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Division operators </p>
 
 </div>
 </div>
@@ -225,6 +224,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Multiplication operators </p>
 
 </div>
 </div>
@@ -243,6 +243,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Subtraction operators </p>
 
 </div>
 </div>
@@ -283,6 +284,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Clamps the vector based on left, top, right, bottom boundings. Doesn't keep direction </p>
 
 </div>
 </div>
@@ -323,6 +325,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns a clamped version of the vector. </p>
 
 </div>
 </div>
@@ -341,20 +344,18 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Cross product this is the 2x2 matrix determinant or the resulting z value for their 3D versions with z=0 </p>
 
 </div>
 </div>
-<a id="a96316e2fe17773c43d7d2b2bd7413d72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96316e2fe17773c43d7d2b2bd7413d72">&#9670;&nbsp;</a></span>Distance()</h2>
+<a id="a3b5516463b4a28f3c919100d86f37473"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b5516463b4a28f3c919100d86f37473">&#9670;&nbsp;</a></span>Distance()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static float Vector::Distance </td>
+          <td class="memname">float Vector::Distance </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="class_vector.html">Vector</a>&#160;</td>
           <td class="paramname"><em>first</em>, </td>
@@ -371,26 +372,19 @@ Public Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+<p>Returns distance between two vectors </p>
 
 </div>
 </div>
-<a id="a8869ebe6b7837dbbaa7d7918fe51e636"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8869ebe6b7837dbbaa7d7918fe51e636">&#9670;&nbsp;</a></span>DistanceSquared()</h2>
+<a id="a2017d10464afbbfac794504651b6c6d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2017d10464afbbfac794504651b6c6d0">&#9670;&nbsp;</a></span>DistanceSquared()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static float Vector::DistanceSquared </td>
+          <td class="memname">float Vector::DistanceSquared </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="class_vector.html">Vector</a>&#160;</td>
           <td class="paramname"><em>first</em>, </td>
@@ -407,12 +401,8 @@ Public Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+<p>Returns squared distance between two vectors </p>
 
 </div>
 </div>
@@ -431,32 +421,26 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Dot product </p>
 
 </div>
 </div>
-<a id="a3421510b3ccf4c3ffd48b5df9588e7fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3421510b3ccf4c3ffd48b5df9588e7fc">&#9670;&nbsp;</a></span>FromAngle()</h2>
+<a id="a07c35c26e27b8562aeac4069d5f580b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07c35c26e27b8562aeac4069d5f580b9">&#9670;&nbsp;</a></span>FromAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="class_vector.html">Vector</a> Vector::FromAngle </td>
+          <td class="memname"><a class="el" href="class_vector.html">Vector</a> Vector::FromAngle </td>
           <td>(</td>
           <td class="paramtype">float&#160;</td>
           <td class="paramname"><em>AngleDegrees</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+<p>Build a <a class="el" href="class_vector.html">Vector</a> from an angle, returns a normalized vector. Angle 0 will result in (1, 0). Angle 90 will result in (0, 1). </p>
 
 </div>
 </div>
@@ -474,6 +458,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns the angle the vector is facing. The vector (1, 0) will be at 0 degrees. The vector (0, 1) will be at 90 degrees. </p>
 
 </div>
 </div>
@@ -491,6 +476,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns the length of the vector </p>
 
 </div>
 </div>
@@ -508,20 +494,18 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns the length squared of the vector </p>
 
 </div>
 </div>
-<a id="a99bc78f955bfc9276383db022dfab730"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99bc78f955bfc9276383db022dfab730">&#9670;&nbsp;</a></span>Lerp()</h2>
+<a id="a7e36c093f15253db8f0d68d5a69b64eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e36c093f15253db8f0d68d5a69b64eb">&#9670;&nbsp;</a></span>Lerp()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="class_vector.html">Vector</a> Vector::Lerp </td>
+          <td class="memname"><a class="el" href="class_vector.html">Vector</a> Vector::Lerp </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="class_vector.html">Vector</a>&#160;</td>
           <td class="paramname"><em>first</em>, </td>
@@ -544,12 +528,8 @@ Public Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+<p>Linear interpolation between two vectors for t = 0 returns first, for t = 1 returns second </p>
 
 </div>
 </div>
@@ -567,6 +547,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Normalizes this vector </p>
 
 </div>
 </div>
@@ -584,6 +565,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns a normalized version of this vector </p>
 
 </div>
 </div>
@@ -602,6 +584,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Resizes the vector length. </p>
 
 </div>
 </div>
@@ -620,6 +603,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns a resized version of the vector. </p>
 
 </div>
 </div>
@@ -638,6 +622,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Returns a rotated version of the vector by AngleDegrees </p>
 
 </div>
 </div>
@@ -653,6 +638,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Components of vector. </p>
 
 </div>
 </div>
