@@ -1,2 +1,2 @@
 # afterbirth-api
-Afterbirth+ API rehosted
+For easily viewing diffs
