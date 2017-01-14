@@ -3,6 +3,7 @@ var searchData=
   ['effect_5fnull',['EFFECT_NULL',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ae42a5413493f27e247f58f8d7079d1e7',1,'Enums.h']]],
   ['effectlist',['EffectList',['../class_cpp_container_1_1_vector_1_1_effect_list.html',1,'CppContainer::Vector']]],
   ['effectvariant',['EffectVariant',['../group___enumerations.html#ga76f2089184023be252ef251921626d99',1,'Enums.h']]],
+  ['egg',['EGG',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359aa614717deb0ac5c584efceb2b3575d1c',1,'Enums.h']]],
   ['ember_5fparticle',['EMBER_PARTICLE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a027cf6be9eaf6724b8267dfbbc491c41',1,'Enums.h']]],
   ['emitbloodfromwalls',['EmitBloodFromWalls',['../class_room.html#ae25498b2c55afaf88fffcbe41ff44f2d',1,'Room']]],
   ['end',['End',['../class_game.html#a43a41741fe8282971a8bb56b4dacd861',1,'Game']]],
@@ -237,6 +238,7 @@ var searchData=
   ['entityplayer',['EntityPlayer',['../class_entity_player.html',1,'']]],
   ['entityptr',['EntityPtr',['../class_entity_ptr.html',1,'EntityPtr'],['../class_entity_ptr.html#af4811f13be26345364df423192f0dfdb',1,'EntityPtr::EntityPtr()']]],
   ['entityref',['EntityRef',['../class_entity_ref.html',1,'EntityRef'],['../class_entity_n_p_c.html#abe6f5c6979aed26ada4576dbf2aaac25',1,'EntityNPC::EntityRef()'],['../class_entity_ref.html#a7765ee7e5d167aef7ed6341e217a723b',1,'EntityRef::EntityRef()']]],
+  ['entitytear',['EntityTear',['../class_entity_tear.html',1,'']]],
   ['entitytype',['EntityType',['../group___enumerations.html#gad79a57ed3105eb60d991a1aeb4a9dc44',1,'Enums.h']]],
   ['enumerations',['Enumerations',['../group___enumerations.html',1,'']]],
   ['evadetarget',['EvadeTarget',['../class_path_finder.html#a3c4720291cc17bcdfde4259329720fce',1,'PathFinder']]],
@@ -246,6 +248,7 @@ var searchData=
   ['exists',['Exists',['../class_entity.html#a244b5b22e40f30a6c40031064d010d90',1,'Entity']]],
   ['explode',['Explode',['../namespace_isaac.html#a1d893bb66d11042e89d4aa8db8a9e236',1,'Isaac']]],
   ['explosiondamage',['ExplosionDamage',['../class_entity_bomb.html#ad0e5b2887ebae55ed701b0be640fe22a',1,'EntityBomb']]],
+  ['explosivo',['EXPLOSIVO',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a43dfe2b20c0e1f521c97c9f97423c41c',1,'Enums.h']]],
   ['extrasprite',['ExtraSprite',['../class_grid_entity_door.html#af0fb498054d93363aa54fcca4c2f8abe',1,'GridEntityDoor']]],
   ['extravisible',['ExtraVisible',['../class_grid_entity_door.html#a81403141eef1268091d2c875ea1a6378',1,'GridEntityDoor']]]
 ];

@@ -3,7 +3,7 @@ var searchData=
   ['papa_5ffly',['PAPA_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeab80a2e9d1ba245c746346bd8c5789538',1,'Enums.h']]],
   ['parent',['Parent',['../class_entity.html#a6b03a593f3367592036b10eeffdc323a',1,'Entity']]],
   ['parentnpc',['ParentNPC',['../class_entity_n_p_c.html#a57178b998dd2e396e5041a013e36ce45',1,'EntityNPC']]],
-  ['parentoffset',['ParentOffset',['../class_entity_effect.html#a5e7537ba0e8641d7e4cf5073458556b8',1,'EntityEffect::ParentOffset()'],['../class_entity_laser.html#afb8de7ce2a94b2b6d1995efbb40de2ba',1,'EntityLaser::ParentOffset()']]],
+  ['parentoffset',['ParentOffset',['../class_entity_tear.html#a952a8a09f98885b8f0585f6e9ad84ec1',1,'EntityTear::ParentOffset()'],['../class_entity_effect.html#a5e7537ba0e8641d7e4cf5073458556b8',1,'EntityEffect::ParentOffset()'],['../class_entity_laser.html#afb8de7ce2a94b2b6d1995efbb40de2ba',1,'EntityLaser::ParentOffset()']]],
   ['pathfinder',['PathFinder',['../class_path_finder.html',1,'PathFinder'],['../class_entity_n_p_c.html#ab3afa82ae781867e75e2b8456c14a40e',1,'EntityNPC::Pathfinder()']]],
   ['pathfollowspeed',['PathFollowSpeed',['../class_entity_knife.html#a469fc0930e9f3b407a73dcf9bccfb42e',1,'EntityKnife']]],
   ['pathoffset',['PathOffset',['../class_entity_knife.html#a1ac7c7e803da2debf12f92a27631bf6a',1,'EntityKnife']]],
@@ -159,7 +159,8 @@ var searchData=
   ['poof04',['POOF04',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ae67c045357a91b8c4f768116f782a2ce',1,'Enums.h']]],
   ['poop_5fexplosion',['POOP_EXPLOSION',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a2cef4890b61a5fc379b513401ffba2ab',1,'Enums.h']]],
   ['poop_5fparticle',['POOP_PARTICLE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99aa01bb817508eafc405ed4c636251ec46',1,'Enums.h']]],
-  ['position',['Position',['../class_entity_ref.html#a047cd4a734753658690a72c2be41d801',1,'EntityRef::Position()'],['../class_player_types_1_1_pos_vel.html#a8de971b12565472fb9d42307463f9abf',1,'PlayerTypes::PosVel::Position()'],['../class_entity.html#a2be308f1982d4eec2c043a5ab66e899f',1,'Entity::Position()'],['../class_grid_entity.html#a31a197cf6e5d32aa6f1cf028f5d05cb9',1,'GridEntity::Position()']]],
+  ['posdisplacement',['PosDisplacement',['../class_entity_tear.html#a1ee4fbd2d4f982eef0c5abcd6a6874a2',1,'EntityTear']]],
+  ['position',['Position',['../class_entity_ref.html#a047cd4a734753658690a72c2be41d801',1,'EntityRef::Position()'],['../class_player_types_1_1_pos_vel.html#a8de971b12565472fb9d42307463f9abf',1,'PlayerTypes::PosVel::Position()'],['../class_entity.html#a2be308f1982d4eec2c043a5ab66e899f',1,'Entity::Position()'],['../class_grid_entity.html#a31a197cf6e5d32aa6f1cf028f5d05cb9',1,'GridEntity::Position()'],['../class_shockwave_params.html#a7e4dfcd17d4566a52541c3cdcd8c309f',1,'ShockwaveParams::Position()']]],
   ['positionoffset',['PositionOffset',['../class_projectile_params.html#af089747f0a55938bfed20aa0c1c7da4a',1,'ProjectileParams::PositionOffset()'],['../class_entity.html#a62a662e8f3c72fcb9c1212dee5cb12dc',1,'Entity::PositionOffset()']]],
   ['postinit',['PostInit',['../class_grid_entity.html#ae4e10ff005143538ed9f6479fb428e31',1,'GridEntity']]],
   ['postrender',['PostRender',['../class_entity.html#a33dc97ef0e0244ecc90b2872637ec036',1,'Entity']]],
@@ -176,5 +177,7 @@ var searchData=
   ['projectiledelay',['ProjectileDelay',['../class_entity_n_p_c.html#a77ba4dc74119155772c23264da44ff31',1,'EntityNPC']]],
   ['projectileparams',['ProjectileParams',['../class_projectile_params.html',1,'ProjectileParams'],['../class_projectile_params.html#a383a2cbd00f9cd2d569d4f6bacf71c4f',1,'ProjectileParams::ProjectileParams()']]],
   ['pulling_5feffect',['PULLING_EFFECT',['../group___enumerations.html#gga76f2089184023be252ef251921626d99aa4d443ffcc724d298830635c294af6ff',1,'Enums.h']]],
-  ['punching_5fbag',['PUNCHING_BAG',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeae6779470cb54653f0aa83f744eb6f103',1,'Enums.h']]]
+  ['punching_5fbag',['PUNCHING_BAG',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeae6779470cb54653f0aa83f744eb6f103',1,'Enums.h']]],
+  ['pupula',['PUPULA',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359ae0b71d15b782e89a5f07c9d1cf54195c',1,'Enums.h']]],
+  ['pupula_5fblood',['PUPULA_BLOOD',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a6a6492a529f825e0fa0e0a5e15d72372',1,'Enums.h']]]
 ];

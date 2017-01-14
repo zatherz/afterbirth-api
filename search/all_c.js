@@ -27,7 +27,7 @@ var searchData=
   ['levelcurse',['LevelCurse',['../group___enumerations.html#gaf8502e81b66781fad715e772644d8a04',1,'Enums.h']]],
   ['levelstage',['LevelStage',['../group___enumerations.html#ga94b82cf988747085e77be386560efc68',1,'Enums.h']]],
   ['levelstateflag',['LevelStateFlag',['../group___enumerations.html#ga26549fb24a4827dc8429c176a27e3c9d',1,'Enums.h']]],
-  ['lifespan',['LifeSpan',['../class_entity_effect.html#a5abf81ae46f8eec7f793e76d8ed747da',1,'EntityEffect']]],
+  ['lifespan',['LifeSpan',['../class_entity_effect.html#a5abf81ae46f8eec7f793e76d8ed747da',1,'EntityEffect::LifeSpan()'],['../class_shockwave_params.html#a735547e9830a4844ca0959488c818dac',1,'ShockwaveParams::LifeSpan()']]],
   ['lil_5fbrimstone',['LIL_BRIMSTONE',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea0e0bad1fba724af40f291c29fc162425',1,'Enums.h']]],
   ['lil_5fchest',['LIL_CHEST',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeaebad4cfd4b64cc2567b8abf256adbffa',1,'Enums.h']]],
   ['lil_5fgurdy',['LIL_GURDY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeaf79111d3ec8967040246a8d1ba756c00',1,'Enums.h']]],
@@ -48,6 +48,7 @@ var searchData=
   ['locust_5fof_5fpestilence',['LOCUST_OF_PESTILENCE',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa8ca33554bedd7ec19acedf5a0781ec37',1,'Enums.h']]],
   ['locust_5fof_5fwrath',['LOCUST_OF_WRATH',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa91c50eae2c1a779a5afbcd73c2d634eb',1,'Enums.h']]],
   ['locustsubtypes',['LocustSubtypes',['../group___enumerations.html#gad9b31a86785e32c18d5d5487a31a0e1f',1,'Enums.h']]],
+  ['lost_5fcontact',['LOST_CONTACT',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a718f660d91f7474decee75dd77fd3579',1,'Enums.h']]],
   ['lost_5ffly',['LOST_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea03f9dab677947ea8f01d70b0e2e9193a',1,'Enums.h']]],
   ['luck',['Luck',['../class_entity_player.html#a3e8019f2af95ebe0725ce9a667c03d79',1,'EntityPlayer']]]
 ];
